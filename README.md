@@ -1,0 +1,1 @@
+This is a YOLOv8m model for License Plate Detection and Recognition. I have used over 4000 raw images containing vehicles from different roads in Dhaka city for building the dataset, and after that, I trained this to build this model.
